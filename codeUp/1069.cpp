@@ -12,7 +12,7 @@ int main(){
     else if (data == 'C')
         cout << "run!";
     else if(data == 'D')
-        cout<<"slowly";
+        cout<<"slowly~";
     else   
         cout <<"what?";
     
